@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a Master of Artificial Intelligence student in [The University of Hong Kong](https://www.hku.hk/). I obtained my Bachelor degree in Statistics, [Shandong University](https://en.sdu.edu.cn/) in 2022.
+Welcome! I am currently a Master of Artificial Intelligence student in [The University of Hong Kong](https://www.hku.hk/). I obtained my Bachelor degree in Statistics from [Shandong University](https://en.sdu.edu.cn/) in 2022.
 
 My research interests mainly lie in Big Data Analysis, Data Mining and Computer Vision.
