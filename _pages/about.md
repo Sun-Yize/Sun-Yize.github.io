@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I am currently a M.Sc in Artificial Intelligence student in [The University of Hong Kong](https://www.hku.hk/). I obtained my Bachelor degree in Statistics from [Shandong University](https://en.sdu.edu.cn/) in 2022.
 
-My research interests mainly lie in Big Data Analysis and Computer Vision. 
+My research interests mainly lie in Big Data Analysis and Machine Learning. 
 
 **[Job]** I'm looking for research intern and part-time positions. Please contact me if you're hiring, thanks!
 
