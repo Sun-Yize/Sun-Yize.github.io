@@ -34,10 +34,19 @@ My research interests mainly lie in Machine Learning and Big Data Analysis . Alt
 
 ## Experience
 
-<div>
-  <img src="/images/logo1.jpg" style="float:left;" width="100" alt="markdown" hspace="40px">
+<div style="display:flex;justify-content:flex-start;">
+  <img src="/images/logo2.jpg" style="float:left;object-fit:contain;" width="50" alt="markdown" hspace="40px">
   <p style="float:left;margin-top:10px;">
-    <b>Shanghai AI Lab</b>, Software Engineer Intern<br/>
+    <b>The University of Hong Kong</b>, Research Assistant<br/>
+    Worked on <a href="https://github.com/HKU-VirtualClassroom">HKU Virtual Classroom</a> project <br/>
+    May. 2023 - Present<br/>
+  </p>
+</div>
+
+<div style="display:flex;justify-content:flex-start;">
+  <img src="/images/logo1.jpg" style="float:left;object-fit:contain;" width="70" alt="markdown" hspace="30px">
+  <p style="float:left;margin-top:10px;">
+    <b>Shanghai AI Laboratory</b>, Software Engineer Intern<br/>
     Worked on <a href="https://opendatalab.com/home">OpenDataLab</a> platform<br/>
     Mar. 2022 - Aug. 2022<br/>
   </p>
