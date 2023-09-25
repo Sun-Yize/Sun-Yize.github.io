@@ -5,6 +5,22 @@ permalink: /projects/
 author_profile: true
 ---
 
+
+## 3D hand tracking and application to virtual characters
+<div style="display:inline-block; border:2px; margin:10px;">
+    <p>
+        [<a href="https://github.com/HKU-VirtualClassroom">github</a>]
+        [document]
+        [video]
+    </p>
+    <p style="float:left;margin-top:10px;">
+        This project is part of the HKU Virtual Classroom Project, which uses multiple cameras to capture facial expressions and body movements to build a 3D virtual classroom.<br/>
+        The application used a single camera to capture hand movements and applied them to the virtual character. Improved 3D hand tracking algorithm; Leveraged deep learning and kinematics methods to calculate hand joint positions and angles; Deployed the algorithm in a Unity application using C# and MediaPipe.
+    </p>
+    <img src="/images/project_hand_tracking.jpg" style="float:left;" width="600" alt="markdown" hspace="20px">
+</div>
+
+
 ## Smargo: An efficient and highly accurate solver for tsumego
 <div style="display:inline-block; border:2px; margin:10px;">
     <p>
