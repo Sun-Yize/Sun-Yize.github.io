@@ -15,9 +15,9 @@ author_profile: true
     </p>
     <p style="float:left;margin-top:10px;">
         This project is part of the HKU Virtual Classroom Project, which uses multiple cameras to capture facial expressions and body movements to build a 3D virtual classroom.<br/>
-        The application used a single camera to capture hand movements and applied them to the virtual character. Improved 3D hand tracking algorithm; Leveraged deep learning and kinematics methods to calculate hand joint positions and angles; Deployed the algorithm in a Unity application using C# and MediaPipe.
+        The application used a single camera to capture hand movements and applied them to the virtual character. Improved 3D hand tracking algorithm; Leveraged deep learning and kinematics methods to calculate hand joint positions and angles; Deployed the algorithm in a Unity application using C++/C# and MediaPipe.
     </p>
-    <img src="/images/project_hand_tracking.jpg" style="float:left;" width="600" alt="markdown" hspace="20px">
+    <img src="/images/vc.gif" style="float:left;" width="700" alt="markdown" hspace="20px">
 </div>
 
 
@@ -81,5 +81,5 @@ author_profile: true
         Deep forest is a cascade forest classifier model proposed by Zhihua Zhou, which is an integration of the traditional forest model in terms of width and depth.<br/>
         This project uses Python + PaddlePaddle to implement deep forest. And we compare it with traditional machine learning algorithms (such as random forest, etc.).
     </p>
-    <img src="https://camo.githubusercontent.com/9392a5b29c0f95275725c16b4b6e3f70d6c2fa967d48156d0ce1189e5488b2c8/68747470733a2f2f61692d73747564696f2d7374617469632d6f6e6c696e652e63646e2e626365626f732e636f6d2f30306666353132313631363634396333623362366631343634656431306662393230626437323030383763343434396639666130323734396565306262376436" style="float:left;" width="500" alt="markdown" hspace="40px">
+    <img src="https://camo.githubusercontent.com/729552099336a3fdd4cf06f4341d1f7fd830303f4893c29682bcf34c76268a88/68747470733a2f2f61692d73747564696f2d7374617469632d6f6e6c696e652e63646e2e626365626f732e636f6d2f30306666353132313631363634396333623362366631343634656431306662393230626437323030383763343434396639666130323734396565306262376436" style="float:left;" width="500" alt="markdown" hspace="40px">
 </div>

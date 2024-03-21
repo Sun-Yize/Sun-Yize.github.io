@@ -12,6 +12,8 @@ Welcome! I am currently a M.Sc in Artificial Intelligence student in [The Univer
 
 My research interests mainly lie in Machine Learning and Big Data Analysis . Although my major is math related, I am very good at programming.
 
+**[Job]** I'm looking for full-time contract / permentent job right now. Please contact me if you're hiring, thanks!
+
 ## Education
 
 <div>
